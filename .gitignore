@@ -122,6 +122,8 @@ bin-release/
 
 # Hugo
 public/
+node_modules/
+resources/
 
 # Mah to-dos
 TODO.md
