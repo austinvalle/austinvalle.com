@@ -1,0 +1,59 @@
+baseURL = 'https://valle.io/'
+languageCode = 'en-us'
+title = 'valle.io'
+theme = "hello-friend"
+paginate     = 10
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  # Subtitle for home
+  homeSubtitle = "DevOps Engineer Lead at Progressive Insurance"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons = true
+
+  # Metadata mostly used in document's head
+  description = "My new homepage or blog"
+  keywords = "homepage, blog"
+  images = [""]
+
+  [[params.social]]
+  name = "github"
+  url = "https://github.com/austinvalle"
+  [[params.social]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/austin-valle-9773496a/"
+  [[params.social]]
+  name = "twitter"
+  url = "https://twitter.com/_austinvalle"
+  [[params.social]]
+  name = "youtube"
+  url = "https://www.youtube.com/channel/UC6G4-Xp-d-geuCGoITlCwZw?view_as=subscriber"
+  [[params.social]]
+  name = "email"
+  url = "mailto:austinvalle@gmail.com"
+  
+
+[languages]
+  [languages.en]
+    title = "Austin Valle"
+
+    [languages.en.params.logo]
+      logoText = "/home/austinvalle"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+#   [[menu.main]]
+#     identifier = "about"
+#     name       = "About"
+#     url        = "/about"

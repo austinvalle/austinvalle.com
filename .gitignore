@@ -104,17 +104,24 @@ dist
 
 # TernJS port file
 .tern-port
+# Build and Release Folders
+bin/
+bin-debug/
+bin-release/
+[Oo]bj/ # FlashDevelop obj
+[Bb]in/ # FlashDevelop bin
 
-# Stores VSCode versions used for testing VSCode extensions
-.vscode-test
+# Other files and folders
+.settings/
 
-# yarn v2
-.yarn/cache
-.yarn/unplugged
-.yarn/build-state.yml
-.yarn/install-state.gz
-.pnp.*
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
 
-.vscode
-public
+# Hugo
+public/
+
+# Mah to-dos
 TODO.md
