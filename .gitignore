@@ -121,7 +121,6 @@ bin-release/
 *.apk
 
 # Hugo
-public/
 node_modules/
 resources/
 
