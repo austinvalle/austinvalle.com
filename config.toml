@@ -20,8 +20,8 @@ paginate     = 10
   enableSharingButtons = true
 
   # Metadata mostly used in document's head
-  description = "My new homepage or blog"
-  keywords = "homepage, blog"
+  description = "DevOps Engineer Lead @ Progressive Insurance"
+  keywords = "homepage, portfolio"
   images = [""]
 
   [[params.social]]
