@@ -1,6 +1,6 @@
-baseURL = 'https://valle.io/'
+baseURL = 'https://austinvalle.com/'
 languageCode = 'en-us'
-title = 'valle.io'
+title = 'austinvalle.com'
 theme = "hello-friend"
 paginate     = 10
 

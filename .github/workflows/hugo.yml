@@ -1,4 +1,4 @@
-name: Deploy `valle.io` Hugo site
+name: Deploy `austinvalle.com` Hugo site
 
 on:
   push:
