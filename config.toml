@@ -31,12 +31,6 @@ paginate     = 10
   name = "linkedin"
   url = "https://www.linkedin.com/in/austin-valle-9773496a/"
   [[params.social]]
-  name = "twitter"
-  url = "https://twitter.com/_austinvalle"
-  [[params.social]]
-  name = "youtube"
-  url = "https://www.youtube.com/channel/UC6G4-Xp-d-geuCGoITlCwZw?view_as=subscriber"
-  [[params.social]]
   name = "email"
   url = "mailto:austinvalle@gmail.com"
   
